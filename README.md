@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm the founder of [BetterFox](https://github.com/yokoffing/Betterfox) and the NextDNS configuration [guide](https://github.com/yokoffing/NextDNS-Config).
+
+
+
+
 <!--
 **yokoffing/yokoffing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
