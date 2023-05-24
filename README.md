@@ -7,7 +7,9 @@
 </h1>
 
 
-I'm the founder of [BetterFox](https://github.com/yokoffing/Betterfox) and the NextDNS configuration [guide](https://github.com/yokoffing/NextDNS-Config).
+I'm the founder of [BetterFox](https://github.com/yokoffing/Betterfox) and the [NextDNS](https://nextdns.io/?from=xujj63g5) configuration [guide](https://github.com/yokoffing/NextDNS-Config).
+  
+You can also check out my [custom filters](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin) for [uBlock Origin](https://github.com/uBlockOrigin).
 </div>
 
 
