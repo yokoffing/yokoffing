@@ -6,10 +6,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-I'm the founder of [BetterFox](https://github.com/yokoffing/Betterfox) and the NextDNS configuration [guide](https://github.com/yokoffing/NextDNS-Config).
-  
-You can also check out my [custom filters](https://github.com/yokoffing/filterlists#recommended-filters-for-ublock-origin) for [uBlock Origin](https://github.com/gorhill/uBlock).
 </div>
 
 
